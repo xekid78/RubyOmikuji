@@ -1,0 +1,2 @@
+# RubyOmikuji
+おみくじ
