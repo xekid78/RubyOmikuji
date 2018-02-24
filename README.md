@@ -17,7 +17,7 @@ elsif omikuji == 4
   puts "吉"
 elsif omikuji == 5
   puts "凶"
-elsif omikuji == 6
+else omikuji == 6
   puts "大凶"
 end
 ```
